@@ -6,4 +6,9 @@ h1{
   
 body{
 font:30pt/1 IBM Plex Sans, bold, sans-serif;
+  background:liner-gradient(to left, white, orange);/*hello*/
+  color: white;
+ 
   }
+
+  
